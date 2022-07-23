@@ -6,7 +6,7 @@ import './styles/styles.scss';
 
 function App() {
   return (
-   <LandingPage/>
+   <LandingPage />
   );
 }
 
